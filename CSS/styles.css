@@ -89,6 +89,16 @@ h3{
   text-decoration: none;
 }
 
+
+.image-carousel 
+{
+  border-radius: 100%;
+
+}
+.carousel-space
+{
+  margin : 20px 0 100px 0 ;
+}
 .cplus
 {
   float : right;
@@ -133,7 +143,7 @@ h3{
 }
 .profile
 {
-  width : 50%;
+
   margin : 100px auto 100px auto ;
   font-size: 20px;
   line-height: 2
